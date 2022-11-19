@@ -1,0 +1,31 @@
+.mainItem {
+  padding: 7px 0;
+  border: #c7c7c7 solid 1px;
+  margin-bottom: 5px;
+  text-align: center;
+  margin-right: 0 !important;
+}
+.mainItem a {
+  text-decoration: none;
+  color: #747474;
+}
+.listofitems {
+  margin: 0 !important;
+  list-style: none;
+  width: 100%;
+  padding: 0;
+}
+.subitem {
+  padding: 10px 0;
+}
+.subitem ul li {
+  padding: 5px 0;
+}
+.subitem ul li a {
+  text-decoration: none;
+  color: #747474;
+}
+.subitem ul li a:hover {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,8 @@
+.search-wrapper {
+  direction: rtl !important;
+  text-align: right;
+}
+.optionListContainer {
+  direction: rtl !important;
+  text-align: right;
+}

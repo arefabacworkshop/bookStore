@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "isbold";
+  src: url("./Assets/Fonts/IRANSansWeb_Bold.ttf");
+}
+@font-face {
+  font-family: "isreg";
+  src: url("../src/Assets/Fonts/IRANSansWeb.ttf");
+}
+@font-face {
+  font-family: "islight";
+  src: url("../src/Assets/Fonts/IRANSansWeb_Light.ttf");
+}
+.drtl {
+  direction: rtl;
+}
+.dltr {
+  direction: ltr;
+}
+.img-wide {
+  width: 100% !important;
+}
+.isreg {
+  font-family: "isreg";
+}
+.isbold {
+  font-family: "isbold";
+}
+.islight {
+  font-family: "islight";
+}
+.item-center {
+  align-items: center;
+  justify-content: center;
+}
+.flexit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link-unstyled,
+.link-unstyled:link,
+.link-unstyled:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+.Toastify__toast--default {
+  font-family: "isreg" !important;
+  text-align: right !important;
+  direction: rtl !important;
+}
+.Toastify__toast--warning {
+  font-family: "isreg" !important;
+  text-align: right !important;
+  direction: rtl !important;
+}
+.Toastify__toast--error {
+  font-family: "isreg" !important;
+  text-align: right !important;
+  direction: rtl !important;
+}
+.Toastify__toast--success {
+  font-family: "isreg" !important;
+  text-align: right !important;
+  direction: rtl !important;
+}
+.bg-navyblue {
+  background-color: #0d244f;
+}
+.text-gold {
+  color: #c5b783 !important;
+}
+.Toastify__toast--info {
+  font-family: "isreg" !important;
+  text-align: right !important;
+  direction: rtl !important;
+}
+.book_image {
+  height: 250px;
+  width: 170px;
+}
+.more-rounded {
+  border-radius: 8px;
+}
+.content-wrapper,
+.LoginWrapper,
+html,
+#root {
+  background-image: url(./Assets/img/bimg.png);
+}

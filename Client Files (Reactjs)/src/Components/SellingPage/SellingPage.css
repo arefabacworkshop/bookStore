@@ -1,0 +1,99 @@
+.fullscreen {
+  height: 100vh;
+  width: 100vw;
+  overflow-y: scroll;
+}
+
+.bg-set {
+}
+
+.form-wrapper {
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.row-maxheight {
+  height: 100% !important;
+}
+.form1 {
+  border-right: 1px solid black;
+  padding-right: 10px;
+}
+.card-customization {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.isbold {
+  font-family: isbold;
+}
+.isreg {
+  font-family: isreg;
+}
+.dir-rtl {
+  direction: rtl !important;
+}
+.dir-ltr {
+  direction: ltr !important;
+}
+
+.step-1-circle,
+.step-2-circle,
+.step-3-circle {
+  border-radius: 100%;
+  background-color: #dddddd;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 12px 0;
+  text-align: center;
+  color: white;
+}
+
+.step-3-circle {
+  display: inline-block;
+}
+
+.steps {
+  text-align: center;
+  direction: rtl;
+  padding: 20px;
+
+  background-color: white;
+}
+
+.steps div p {
+  margin-top: 5px;
+}
+
+.drop-fa {
+  text-align: right !important;
+}
+.myclock {
+  font-family: isreg;
+  letter-spacing: 7px;
+}
+.jumbot {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.buy-product {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  opacity: 1;
+}
+input[type="number"] {
+  max-width: 60px;
+}
+.postDetailsSelect {
+  min-height: 500px;
+  max-height: 500px;
+}

@@ -1,0 +1,15 @@
+.LoginWrapper {
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.login-form-wrapper {
+  width: 400px;
+  height: auto;
+  margin: 0;
+  display: block;
+}
+.tdnone {
+  text-decoration: none;
+}

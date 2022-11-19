@@ -1,0 +1,19 @@
+.breadCrumbList {
+  list-style: none;
+  text-align: right;
+  direction: rtl;
+}
+.breadCrumbList li {
+  display: inline-block;
+  margin-right: 0.75rem;
+}
+.select-tartib {
+  width: 250px !important;
+}
+.tartib-name {
+  margin-right: 0rem !important;
+}
+.writers-list {
+  max-height: 150px;
+  overflow-y: scroll;
+}

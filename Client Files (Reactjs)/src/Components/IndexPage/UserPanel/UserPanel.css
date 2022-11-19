@@ -1,0 +1,27 @@
+.user-panel-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+.userPanel-items a {
+  text-decoration: none;
+  color: white;
+}
+.userPanel-items {
+  text-align: center;
+  width: 100% !important;
+}
+.user-panel-list {
+  margin: 0 !important;
+  padding: 0;
+  width: 100%;
+}
+.userPanel-items a:hover,
+.userPanel-items a:visited {
+  color: #1c1c1c;
+}
+.userPanel-items:hover,
+.bg-navy {
+  background-color: #bbd8e6;
+  width: 100%;
+}
